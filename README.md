@@ -1,5 +1,5 @@
 # Istio Service Mesh for Kubernetes Microservices
 
-### Creadits:
+### Credits:
 
 https://rslim087a.github.io/rayanslim
